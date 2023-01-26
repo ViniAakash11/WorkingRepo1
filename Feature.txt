@@ -3,7 +3,7 @@ public void CommonFuntion1()
 syso("CommonFuntion1")
 }
 
-public void Feature2()
+public void Feature1()
 {
-syso("Feature2")
+syso("Feature1")
 }
