@@ -5,5 +5,5 @@ syso("CommonFuntion1")
 
 public void Feature1()
 {
-syso("Feature1")
+syso("Feature1    ")
 }
